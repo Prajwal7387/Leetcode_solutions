@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
