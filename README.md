@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
