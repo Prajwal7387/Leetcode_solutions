@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
