@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0242-valid-anagram) |
 ## Hash Table
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0242-valid-anagram) |
 ## Math
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -184,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0100-same-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
