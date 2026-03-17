@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
