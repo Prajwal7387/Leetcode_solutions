@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
