@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1288-remove-covered-intervals](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0274-h-index) |
+| [1288-remove-covered-intervals](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
 |  |
 | ------- |
