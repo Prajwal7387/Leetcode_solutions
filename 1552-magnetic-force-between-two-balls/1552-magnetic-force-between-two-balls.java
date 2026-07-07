@@ -1,10 +1,9 @@
 class Solution {
     public int maxDistance(int[] position, int m) {
-        return aggressiveCows(position,m);
+        return aggressiveCows(position, m);
     }
-
-    static boolean canPlace(int[] stalls, int cows, int dist)
-    {
+    
+    static boolean canPlace(int[] stalls, int cows, int dist) {
         int count = 1;
         int lastPos = stalls[0];
 
