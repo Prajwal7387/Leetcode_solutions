@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1288-remove-covered-intervals) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1288-remove-covered-intervals) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Bit Manipulation
 |  |
 | ------- |
