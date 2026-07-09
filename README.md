@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1288-remove-covered-intervals) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
@@ -275,4 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0912-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
