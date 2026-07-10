@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1288-remove-covered-intervals](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Two Pointers
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -286,4 +289,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
