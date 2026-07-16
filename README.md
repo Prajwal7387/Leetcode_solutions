@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0027-remove-element) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0134-gas-station) |
