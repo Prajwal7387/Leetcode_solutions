@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0190-reverse-bits) |
 | [0912-sort-an-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
