@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0148-sort-list) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
