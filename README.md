@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0268-missing-number) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0101-symmetric-tree) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0101-symmetric-tree) |
