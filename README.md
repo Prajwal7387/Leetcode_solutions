@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0561-array-partition) |
+| [0877-stone-game](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1288-remove-covered-intervals](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1288-remove-covered-intervals) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -394,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
