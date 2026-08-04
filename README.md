@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0877-stone-game) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0338-counting-bits) |
 ## Tree
 |  |
 | ------- |
