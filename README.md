@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1137-n-th-tribonacci-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -432,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
