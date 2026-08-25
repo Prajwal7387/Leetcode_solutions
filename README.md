@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1192-critical-connections-in-a-network) |
 | [3310-remove-methods-from-project](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1192-critical-connections-in-a-network) |
 | [3310-remove-methods-from-project](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
@@ -494,4 +496,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0022-generate-parentheses) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
