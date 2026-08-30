@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [0877-stone-game](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0605-can-place-flowers) |
 | [1710-maximum-units-on-a-truck](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Counting Sort
 |  |
