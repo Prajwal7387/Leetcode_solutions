@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0414-third-maximum-number) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0509-fibonacci-number) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0322-coin-change](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0322-coin-change) |
 | [3310-remove-methods-from-project](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 ## Counting
 |  |
@@ -517,4 +520,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1192-critical-connections-in-a-network) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
