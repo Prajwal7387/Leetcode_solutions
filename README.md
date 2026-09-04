@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0079-word-search) |
