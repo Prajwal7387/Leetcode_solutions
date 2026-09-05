@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
