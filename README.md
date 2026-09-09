@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0895-maximum-frequency-stack](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0895-maximum-frequency-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0895-maximum-frequency-stack](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0895-maximum-frequency-stack) |
 ## Math
 |  |
 | ------- |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0895-maximum-frequency-stack](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0895-maximum-frequency-stack) |
 ## Randomized
 |  |
 | ------- |
@@ -557,4 +560,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
