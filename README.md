@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0994-rotting-oranges](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1288-remove-covered-intervals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0322-coin-change](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0322-coin-change) |
+| [0994-rotting-oranges](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [3310-remove-methods-from-project](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 ## Counting
 |  |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0994-rotting-oranges) |
 ## Monotonic Stack
 |  |
 | ------- |
