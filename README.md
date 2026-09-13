@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
+| [0164-maximum-gap](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0217-contains-duplicate) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -493,10 +495,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0912-sort-an-array) |
 ## Design
 |  |
@@ -573,4 +577,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0895-maximum-frequency-stack) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Prajwal7387/Leetcode_solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
